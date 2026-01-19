@@ -1,4 +1,1 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{RichWty}/count.svg" alt="Visitor's Count" />
-</div>
+![Visitor Count](https://visitor-badge.laobi.io/badge?page_id=RichWty.RichWty)
